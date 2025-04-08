@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @diegomunozme
-- 👀 I’m interested in blockchain and its applications
-- 🌱 I’m currently learning Solidity, Javascript
-- 💞️ I’m looking to collaborate on defi projects or blockchain applications in supply chain 
-- 📫 How to reach me email me diego.munoz.me@gmail.com
+Finishing my MS - Computer Science so if you have any cool AWS + ML projects I'm more than happy to help :)
 
 <!---
 diegomunozme/diegomunozme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
